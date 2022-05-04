@@ -26,7 +26,7 @@ Install the Gem:
 
 Copy assets files and run migrations
 
-bundle exec rails generate solidus_sale_prices:install
+		bundle exec rails generate solidus_sale_prices:install
 
 Usage
 -----
